@@ -1,0 +1,6 @@
+1- Create Express Server
+2- Create Routes - *(Using Middlware - use(Common Path, Routes))
+3- Create Controller - *( Using Middlware to Get Body Data - use(express.json()) )
+4- Handling Errors - *(Using Middlware (express-async-handler))
+5- Connect to MongoDB - *(Using mongoose)
+6- Create Schema
